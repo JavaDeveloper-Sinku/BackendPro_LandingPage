@@ -1,0 +1,7 @@
+thie Web Project is my firam  landing Page (Backend System Provider Services)
+
+//Principle of farm
+
+
+Client Requirements --> Dicussion The Problem  --> Building Project --> demo version showing --> final Project sending to Client --> Amount/Payment --> feadback --> Happy Client --> Work Done
+Client Requirements --> Dicussion The Problem --> making HLD Model --> Making LLD -->

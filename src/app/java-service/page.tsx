@@ -51,9 +51,9 @@ const JavaService: React.FC = () => {
     },
     {
       icon: <Server className="w-8 h-8" />,
-      title: 'Microservices Architecture',
-      subtitle: 'Scalable Systems',
-      description: 'Design and implement microservices architectures for better scalability, maintainability, and team productivity.'
+      title: 'API performance optimization ',
+      subtitle: 'Scalable Systems milliseconds',
+      description: 'Design and implement API architectures for better scalability, maintainability, and productivity.'
     }
   ];
 
@@ -74,7 +74,7 @@ const JavaService: React.FC = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <Code className="h-8 w-8 text-blue-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">BackendPro</span>
+              <span className="ml-2 text-xl font-bold text-gray-900">	DockSpring</span>
             </div>
             <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200 flex items-center space-x-2">
               <Mail className="w-4 h-4" />
@@ -199,13 +199,13 @@ const JavaService: React.FC = () => {
         <div className="max-w-6xl mx-auto text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Coffee className="w-6 h-6 text-blue-400" />
-            <span className="text-xl font-bold">JavaPro Services</span>
+            <span className="text-xl font-bold">Java Backend Services</span>
           </div>
           <p className="text-gray-400 mb-4">
             Professional Java backend development services for modern applications
           </p>
           <div className="flex justify-center space-x-6 text-sm text-gray-400">
-            <span>© 2025 JavaPro Services</span>
+            <span>© 2025 Java Backend Services</span>
             <span>•</span>
             <span>Built with ❤️ and Java</span>
           </div>
